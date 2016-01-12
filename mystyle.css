@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+}
+h2 {
+  color: red;
+}
+body {
+  background-color: blue;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.bright-text {
+  color: red;
+}
